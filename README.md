@@ -6,4 +6,4 @@ Este es mi primer intento de hacer un asistente de voz similar a J.A.R.V.I.S (de
 
 Seamos honestos, no es tan inteligente como en la película, pero puede hacer muchas cosas interesantes y automatizar las tareas diarias.
 
-ElMagoProduccionesss © 2021
+ElMagoProducciones © 2021
